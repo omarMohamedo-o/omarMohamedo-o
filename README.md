@@ -117,9 +117,22 @@ I am an **RHCSA-certified DevOps Engineer** with hands-on experience in:
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-mohamedo-o) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/omarMohamedo-o) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarmo.abdelsalam@gmail.com) 
+## 🌐 Connect with Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/omar-mohamedo-o">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/omarMohamedo-o">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:omarmo.abdelsalam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.credly.com/users/omar-mohamedo-o/">
+    <img src="https://img.shields.io/badge/Credly-Profile-orange?style=flat&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
+</p>
 
 ---
 
