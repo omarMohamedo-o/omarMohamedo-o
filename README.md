@@ -115,8 +115,6 @@ I am an **RHCSA-certified DevOps Engineer** with hands-on experience in:
 
 ---
 
-## 🌐 Connect With Me  
-
 ## 🌐 Connect with Me  
 
 <p align="left">
