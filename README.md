@@ -75,7 +75,7 @@ Always eager to learn, optimize, and contribute to production-grade DevOps syste
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarMohamedo-o&theme=tokyonight&no-frame=false&margin-w=4"/>
+  <img src="https://github-trophies.devomb.com/?username=omarMohamedo-o&theme=tokyonight&no-frame=false&margin-w=4"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@ Always eager to learn, optimize, and contribute to production-grade DevOps syste
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarMohamedo-o&theme=tokyo-night"/>
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=omarMohamedo-o&theme=tokyo-night"/>
 </p>
 
 ---
