@@ -11,7 +11,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
 
   <!-- Portfolio -->
   <a href="https://omarmohamed-portfolio.vercel.app/">
@@ -67,7 +67,11 @@ Always eager to learn, optimize, and contribute to production-grade DevOps syste
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omarMohamedo-o/omarMohamedo-o/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omarMohamedo-o/omarMohamedo-o/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/omarMohamedo-o/omarMohamedo-o/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
@@ -115,7 +119,8 @@ Always eager to learn, optimize, and contribute to production-grade DevOps syste
 ---
 
 <p align="center">
-  <b>"Automating today for a more reliable tomorrow."</b>🔥
+  <b>"Automating today for a more reliable tomorrow."</b> 🔥
+</p>
 <p align="center">
 
   <!-- LinkedIn -->
